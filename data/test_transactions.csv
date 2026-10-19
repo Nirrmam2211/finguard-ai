@@ -1,0 +1,21 @@
+transaction_id,record_type,Transaction amount,Customer's average transaction amount,Transaction location,New/unusual location flag,Transaction count in last 10 minutes,New beneficiary flag,Outside usual hours flag,expected_risk_level
+REAL001,real,1250.00,3000.00,Pune,False,1,False,False,Low
+REAL002,real,2200.00,2800.00,Mumbai,False,2,False,False,Low
+REAL003,real,4500.00,5000.00,Delhi,False,1,False,False,Low
+REAL004,real,8750.00,3000.00,Bengaluru,False,3,False,False,Low
+REAL005,real,15000.00,12000.00,Pune,False,1,False,True,Low
+REAL006,real,48000.00,40000.00,Chennai,False,2,True,False,Low
+REAL007,real,6500.00,6000.00,Hyderabad,True,1,False,False,Low
+REAL008,real,3000.00,3500.00,Pune,False,4,False,False,Low
+REAL009,real,52000.00,50000.00,Mumbai,False,1,False,False,Low
+REAL010,real,9800.00,8000.00,Surat,False,1,False,False,Low
+FAKE001,fake,96500.00,4000.00,Delhi,True,5,True,True,High
+FAKE002,fake,75000.00,5000.00,Jaipur,True,1,False,False,Medium
+FAKE003,fake,88000.00,3000.00,Kolkata,False,6,True,True,High
+FAKE004,fake,60000.00,4500.00,Pune,True,4,True,False,High
+FAKE005,fake,55000.00,50000.00,Chennai,False,1,True,True,Medium
+FAKE006,fake,120000.00,6000.00,Ahmedabad,True,5,True,True,High
+FAKE007,fake,20000.00,3000.00,Mumbai,True,4,True,True,High
+FAKE008,fake,49000.00,4000.00,Delhi,True,4,True,True,High
+FAKE009,fake,51000.00,5000.00,Bengaluru,False,2,False,True,Medium
+FAKE010,fake,30000.00,4000.00,Surat,True,1,True,True,Medium
