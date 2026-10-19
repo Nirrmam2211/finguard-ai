@@ -76,7 +76,7 @@ The animation below uses captures of the running Streamlit dashboard: loaded syn
   <img src="media/finguard-demo.gif" alt="Streamlit workflow from synthetic data to TXN00003 priority-review result" width="900">
 </p>
 
-The repository also includes the static architecture image above and the **FinGuard AI v3 PowerPoint walkthrough** (stored at the repository root under the original filename [`FinGuard_AI_CA3_Presentation.pptx`](FinGuard_AI_CA3_Presentation.pptx)). Individual captures are available in [`media/`](media/).
+The repository also includes the static architecture image above and the [**FinGuard AI v3 PowerPoint walkthrough**](FinGuard_AI_v3.pptx). Individual captures are available in [`media/`](media/).
 
 ## Repository map
 
